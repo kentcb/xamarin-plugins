@@ -69,6 +69,7 @@
     <Compile Include="PushNotificationService.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PushNotificationsReceiver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
